@@ -53,7 +53,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
  indicators such as unemployment rate, real GDP, and house price index
 
 
-**Gherkin Tower Risk Analysis (_Oct 2023_)**
+**Gherkin Tower Risk Analysis (_Oct 2023_)** [jupyter notebook](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT#scrollTo=J_xsk3bR5RB9)
 - Quantified potential losses of £75 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
 
