@@ -1,55 +1,86 @@
-## Developer Portfolio Landing Page Template
+## Data Analyst
 
-### ⚠️ Project Discontinued ⚠️
+Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+### Education
+- M.Sc. in Statistics, Financial Modelling     Western University (Aug 2024)
+-  B.Sc.(Hons) in Mathematics & Statistics     McMaster University (June 2023)
+
+### Work Experience 
+Teaching Assistant @ Western University (Jan-Aug 2024)
+- Held 6 hours of help sessions for a second-year statistics class, assisting students from non-technical
+ backgrounds, such as humanities and social sciences, with R coding tasks like generating scatterplots to
+ analyze variable relationships, resulting in over 75% of assignment submissions achieving perfect scores
+ for their graphs
+
+- Successfully handled 250 students’ exam questions on statistical concepts within 48 hours by thoroughly
+ reviewing the marking scheme, focusing on common misconceptions such as standard deviation vs.
+ margin of error, and provided individual feedback to over 15% of submissions while completing the task
+ ahead of the deadline
+
+Financial Analyst @ China Construction Bank (July-Aug 2021)
+-  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
+ bank statements from the past month, ensuring over 90% of data readiness
+
+### Research Project 
+
+ESG Rating Analysis Across Global Sectors (May-Aug 2024)
+
+- Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
+ companies in 206 industries around the world
+- Visualized time-series analysis on 10 key sectors across Canada, China, the United States, and Germany
+ to reveal country-specific trends for sustainable investments
+- Portrayed time-trend distributions by extracting β values from linear regression of 150+ companies per
+ sector
+- Quantified correlation positivity by 90% in ESG scores among companies in 10 key sectors using Spear
+man’s measure, distance correlation, and Maximal Information Coefficient
+- Developed and delivered comprehensive reports highlighting key findings and trends in ESG data to
+ academic stakeholders
+
+Other Relevant Projects 
+
+Lending Club Credit Risk Analytics (Apr 2024)
+-  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
+ loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
+
+Loan Performance Stress Testing (Nov 2023)
+- Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
+ by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
+ indicators such as unemployment rate, real GDP, and house price index
+
+
+Gherkin Tower Risk Analysis (Oct 2023)
+- Quantified potential losses of £75 million over a 10-year period by calculating Expected Shortfall and
+ Value-at-Risk using LIBOR and exchange rate data
+
+
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Introduction
+### Category Name 2
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
-### Installation
+---
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
