@@ -43,9 +43,12 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 ## Other Relevant Projects 
 
-**Lending Club Credit Risk Analytics (_Apr 2024_)**
+**Lending Club Credit Risk Analytics (_Apr 2024_)** | [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
+
+**Boston Housing**
+- Case study of shallow neural networks | [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
 
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
