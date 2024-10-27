@@ -28,7 +28,7 @@
 
 ## Research Project 
 
-**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)**
+**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** | [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
  companies in 206 industries around the world
