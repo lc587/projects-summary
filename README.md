@@ -5,9 +5,9 @@
 
 ### Education
 - <b> M.Sc.,Financial Modelling &nbsp; Western University <i>(Aug 2024)</i> </b>
----
+<hr> 
 - <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University <i>(June 2023)</i> </b>
----
+<hr>
 
 
 ### Work Experience 
