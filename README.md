@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI
+### Technical skills:  Python, R, SQL, MATLAB, SAS, NumPy, Pytorch, Sikit-learn, Pandas
 
 
 ## Education
