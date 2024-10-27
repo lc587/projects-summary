@@ -1,16 +1,16 @@
-## Data Analyst
+# Data Analyst
 
 <b>Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI</b>
 
 
-### Education
+## Education
 - <b> M.Sc.,Financial Modelling &nbsp; Western University <i>(Aug 2024)</i> </b>
-<hr> 
+<hr>
 - <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University <i>(June 2023)</i> </b>
 <hr>
 
 
-### Work Experience 
+## Work Experience 
 <b>Teaching Assistant @ Western University <i>(Jan-Aug 2024)</i></b>
 - Held 6 hours of help sessions for a second-year statistics class, assisting students from non-technical
  backgrounds, such as humanities and social sciences, with R coding tasks like generating scatterplots to
@@ -26,7 +26,7 @@
 -  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
  bank statements from the past month, ensuring over 90% of data readiness
 
-### Research Project 
+## Research Project 
 
 <b>ESG Rating Analysis Across Global Sectors() <i>(May-Aug 2024)</i></b>
 
@@ -41,7 +41,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 - Developed and delivered comprehensive reports highlighting key findings and trends in ESG data to
  academic stakeholders
 
-Other Relevant Projects 
+## Other Relevant Projects 
 
 <b>Lending Club Credit Risk Analytics <i>(Apr 2024)</i></b>
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
