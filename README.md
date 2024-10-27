@@ -1,13 +1,18 @@
 ## Data Analyst
 
-Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI
+<b>Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI</b>
 
 ### Education
-- M.Sc. in Statistics, Financial Modelling     Western University (Aug 2024)
--  B.Sc.(Hons) in Mathematics & Statistics     McMaster University (June 2023)
+<b>
+- M.Sc. in Statistics, Financial Modelling         Western University (Aug 2024) 
+<hr>
+- B.Sc.(Hons) in Mathematics & Statistics          McMaster University (June 2023)
+</b>
+<hr>
+
 
 ### Work Experience 
-Teaching Assistant @ Western University (Jan-Aug 2024)
+<b>Teaching Assistant @ Western University (Jan-Aug 2024)</b>
 - Held 6 hours of help sessions for a second-year statistics class, assisting students from non-technical
  backgrounds, such as humanities and social sciences, with R coding tasks like generating scatterplots to
  analyze variable relationships, resulting in over 75% of assignment submissions achieving perfect scores
@@ -18,13 +23,13 @@ Teaching Assistant @ Western University (Jan-Aug 2024)
  margin of error, and provided individual feedback to over 15% of submissions while completing the task
  ahead of the deadline
 
-Financial Analyst @ China Construction Bank (July-Aug 2021)
+<b>Financial Analyst @ China Construction Bank (July-Aug 2021)</b>
 -  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
  bank statements from the past month, ensuring over 90% of data readiness
 
 ### Research Project 
 
-ESG Rating Analysis Across Global Sectors (May-Aug 2024)
+<b>ESG Rating Analysis Across Global Sectors (May-Aug 2024)</b>
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
  companies in 206 industries around the world
@@ -39,17 +44,17 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 Other Relevant Projects 
 
-Lending Club Credit Risk Analytics (Apr 2024)
+<b>Lending Club Credit Risk Analytics (Apr 2024)</b>
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
 
-Loan Performance Stress Testing (Nov 2023)
+<b>Loan Performance Stress Testing (Nov 2023)</b>
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
  indicators such as unemployment rate, real GDP, and house price index
 
 
-Gherkin Tower Risk Analysis (Oct 2023)
+<b>Gherkin Tower Risk Analysis (Oct 2023)</b>
 - Quantified potential losses of £75 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
 
