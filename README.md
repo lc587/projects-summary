@@ -3,11 +3,9 @@
 <b>Technical skills:  Python, R, SQL, MATLAB, SAS, Power BI</b>
 
 ### Education
-<b>
-- M.Sc. in Statistics, Financial Modelling         Western University (Aug 2024) 
+- <b> M.Sc. in Statistics, Financial Modelling         Western University (Aug 2024) </b>
 <hr>
-- B.Sc.(Hons) in Mathematics & Statistics          McMaster University (June 2023)
-</b>
+- <b> B.Sc.(Hons) in Mathematics & Statistics          McMaster University (June 2023)</b>
 <hr>
 
 
