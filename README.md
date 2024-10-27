@@ -4,9 +4,9 @@
 
 
 ## Education
-- <b> M.Sc.,Financial Modelling &nbsp; Western University (_Aug 2024_) </b>
+- <b> M.Sc.,Financial Modelling | Western University (_Aug 2024_) </b>
 <hr>
-- <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
+- <b> B.Sc.,Mathematics & Statistics | McMaster University (_June 2023_) </b>
 <hr>
 
 
