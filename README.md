@@ -4,9 +4,9 @@
 
 
 ## Education
-- <b> M.Sc.,Financial Modelling | Western University (_Aug 2024_) </b>
+- <b> M.Sc.,Financial Modelling &nbsp; Western University (_Aug 2024_) </b>
 <hr>
-- <b> B.Sc.,Mathematics & Statistics | McMaster University (_June 2023_) </b>
+- <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
 <hr>
 
 
@@ -43,21 +43,22 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 ## Other Relevant Projects 
 
-**Lending Club Credit Risk Analytics (_Apr 2024_)** | [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
+**Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
 
 **Boston Housing**
-- Case study of shallow neural networks | [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
+- Case study of shallow neural networks &nbsp; [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
 
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
- indicators such as unemployment rate, real GDP, and house price index <img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
+ indicators such as unemployment rate, real GDP, and house price index <br>
+<img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
 
 
 **Gherkin Tower Risk Analysis (_Oct 2023_)**
-- Quantified potential losses of £75 million over a 10-year period by calculating Expected Shortfall and
+- Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
 
 
