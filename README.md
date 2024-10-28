@@ -53,9 +53,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
- indicators such as unemployment rate, real GDP, and house price index
-
-![Feature correlations](Screenshot 2024-10-27 210328.png)
+ indicators such as unemployment rate, real GDP, and house price index <img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
 
 
 **Gherkin Tower Risk Analysis (_Oct 2023_)**
