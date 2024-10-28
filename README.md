@@ -53,12 +53,12 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
- indicators such as unemployment rate, real GDP, and house price index <br>
+ indicators such as unemployment rate, real GDP, and house price index <br><br>
 <img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
 
 
 **Gherkin Tower Risk Analysis (_Oct 2023_)**
 - Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
- Value-at-Risk using LIBOR and exchange rate data
+ Value-at-Risk using LIBOR and exchange rate data <img src="images/Screenshot 2024-10-27 224523.png?raw=true"/>
 
 
