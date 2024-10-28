@@ -4,7 +4,7 @@
 
 
 ## Education
-- <b> M.Sc.,Financial Modelling &nbsp; Western University (_Aug 2024_) </b>
+- <b> M.Sc.,Financial Modelling &nbsp; &nbsp; Western University (_Aug 2024_) </b>
 <hr>
 - <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
 <hr>
@@ -28,7 +28,10 @@
 
 ## Research Project 
 
-**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** | [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)
+**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** | [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)<br>
+
+<img src="images/Screenshot 2024-10-27 225141.png?raw=true"/>
+
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
  companies in 206 industries around the world
