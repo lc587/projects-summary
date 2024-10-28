@@ -1,6 +1,6 @@
 # Data Analyst
 
-**Technical skills:  Python, R, SQL, SAS, NumPy, Pytorch, Sikit-learn, Pandas**
+**Technical skills:  Python, R, SQL, SAS, NumPy, Sikit-learn, Pandas**
 
 
 ## Education
@@ -53,7 +53,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
- indicators such as unemployment rate, real GDP, and house price index
+ indicators such as unemployment rate, real GDP, and house price index ![ex., Feature Correlations](https://github.com/lc587/lc587.github.io/blob/main/images/Screenshot%202024-10-27%20210328.png)
 
 
 **Gherkin Tower Risk Analysis (_Oct 2023_)**
