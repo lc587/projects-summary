@@ -28,7 +28,7 @@
 
 ## Research Project 
 
-**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** | [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)<br>
+**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)<br>
 
 <img src="images/Screenshot 2024-10-27 225141.png?raw=true"/>
 
