@@ -51,7 +51,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
 
 **Boston Housing**
-- Case study of shallow neural networks &nbsp; [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
+- Case study of neural networks &nbsp; [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
 
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
