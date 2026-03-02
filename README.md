@@ -5,7 +5,7 @@
 
 ## Education
 - <b> M.Sc.,Financial Modelling &nbsp; &nbsp; Western University (_Aug 2024_) </b>
-<hr>
+
 - <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
 <hr>
 
@@ -62,6 +62,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 **Gherkin Tower Risk Analysis (_Oct 2023_)**
 - Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
- Value-at-Risk using LIBOR and exchange rate data <img src="images/Screenshot 2024-10-27 224523.png?raw=true"/>
+ Value-at-Risk using LIBOR and exchange rate data
+<img src="images/Screenshot 2024-10-27 224523.png?raw=true"/>
 
 
