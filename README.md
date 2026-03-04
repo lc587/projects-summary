@@ -1,17 +1,18 @@
 ## Chenny Liu
-### Data Analyst
+
+**Data Analyst**
 
 **Technical skills:  Python, R, SQL, SAS, NumPy, Sikit-learn, Pandas**
 
 
-## Education
+### Education
 - <b> M.Sc.,Financial Modelling &nbsp; &nbsp; Western University (_Aug 2024_) </b>
 
 - <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
 <hr>
 
 
-## Work Experience 
+### Industry Experience 
 **Teaching Assistant @ Western University (_Jan-Aug 2024_)**
 - Held 6 hours of help sessions for a second-year statistics class, assisting students from non-technical
  backgrounds, such as humanities and social sciences, with R coding tasks like generating scatterplots to
@@ -27,7 +28,7 @@
 -  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
  bank statements from the past month, ensuring over 90% of data readiness
 
-## Research Project 
+### Analytics Experience 
 
 **ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)<br>
 
@@ -45,7 +46,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 - Developed and delivered comprehensive reports highlighting key findings and trends in ESG data to
  academic stakeholders
 
-## Other Relevant Projects 
+## ML Models Deployment
 
 **Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
