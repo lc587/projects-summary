@@ -47,7 +47,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 - Developed and delivered comprehensive reports highlighting key findings and trends in ESG data to
  academic stakeholders
 
-## ML Models Deployment
+### ML Models Deployment
 
 **Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
