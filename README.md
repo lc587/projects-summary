@@ -9,7 +9,7 @@ This is the page where I share my past analytical experience including snippets 
 ### Education
 - <b> M.Sc.,Financial Modelling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Western University (_Aug 2024_) </b>
 
-- <b> B.Sc.,Mathematics & Statistics &nbsp; McMaster University (_June 2023_) </b>
+- <b> B.Sc.,Mathematics & Statistics &nbsp; &nbsp; McMaster University (_June 2023_) </b>
 <hr>
 
 
