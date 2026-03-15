@@ -41,7 +41,7 @@ The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_a
 <figure align="center">
   <img src="images/esg.png" width="800"/>
   <figcaption><em>Figure 1: ESG rating changes over time in different industries.</em></figcaption>
-</figure> \
+</figure> <b>
 
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
