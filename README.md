@@ -36,11 +36,9 @@ This is the page where I share my past analytical experience including snippets 
 **ESG Rating Analysis Across Global Sectors** &nbsp; 
 
 The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb).
+![Time series overview](images/esg.png)
 
-<figure align="center">
-  <img src="images/esg.png" width="800"/>
-  <figcaption><em>Figure 1: ESG rating changes over time in different industries.</em></figcaption>
-</figure>  
+*Figure 1: ESG rating changes over time in different industries.*
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
  companies in 206 industries around the world
