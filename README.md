@@ -4,7 +4,7 @@
 
 **Technical skills:  Python, R, SQL, SAS, NumPy, Sikit-learn, Pandas**
 
-This is the page where I share my past analytical experience including snippets of the results and more detail on the methodologies🤝.
+This is the page where I share my past analytical experience including some snippets of the results and more detail on the methodologies🤝.
 
 ### Education
 - <b> M.Sc.,Financial Modelling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Western University (_Aug 2024_) </b>
