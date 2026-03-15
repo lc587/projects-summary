@@ -67,7 +67,10 @@ Full analysis available [here](https://github.com/lc587/projects-summary/blob/ma
 
 - Predicted Boston's housing price using Neural Networks model (Keras).
 
-<img src="images/housing_price_prediction.png"/>
+  ![Housing price prediction](images/housing_price_prediction.png)
+
+*Figure 2: Boston's housing price prediction vs. actual values.*
+
 
 
 
@@ -75,12 +78,18 @@ Full analysis available [here](https://github.com/lc587/projects-summary/blob/ma
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
  indicators such as unemployment rate, real GDP, and house price index <br><br>
-<img src="images/pd_lgd.png"/>
+
+  ![PD & LGD correlation](images/pd_lgd.png)
+
+*Figure 3: PD & LGD correlation with macrovariables, the higher the correlation, the darker the color.*
 
 
 **Gherkin Tower Risk Analysis**
 - Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
-<img src="images/libor_rates.png"/>
+
+  ![libor rates change](images/libor_rates.png)
+
+*Figure 4: Libor rates changes over time with terms 1, 3, 6 & 12 months.*
 
 
