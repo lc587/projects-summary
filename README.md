@@ -29,9 +29,11 @@ This is the page where I share my past analytical experience including a snippet
 -  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
  bank statements from the past month, ensuring over 90% of data readiness
 
-### Analytics Experience 
+### Analytics Work Demo
 
-**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1FeGKznF_8wyQbvZbGRk2QLh6cO_GcONc)<br>
+**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; 
+
+The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb)
 
 <img src="images/Screenshot 2024-10-27 225141.png?raw=true"/>
 
