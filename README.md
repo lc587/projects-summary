@@ -4,7 +4,7 @@
 
 **Technical skills:  Python, R, SQL, SAS, NumPy, Sikit-learn, Pandas**
 
-This is the page where I share my past analytical experience including a snippet of the results and more detail on the methodologies🤝.
+This is the page where I share my past analytical experience including snippets of the results and more detail on the methodologies🤝.
 
 ### Education
 - <b> M.Sc.,Financial Modelling &nbsp; &nbsp; Western University (_Aug 2024_) </b>
@@ -33,7 +33,7 @@ This is the page where I share my past analytical experience including a snippet
 
 **ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; 
 
-The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb)
+The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb).
 
 <img src="images/Screenshot 2024-10-27 225141.png?raw=true"/>
 
@@ -51,12 +51,18 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 ### ML Models Deployment
 
-**Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp; [Details](https://colab.research.google.com/drive/1yrSpfv2mdVKv1C9LJrRhcD2CPpZ-0t1Q)
+**Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp;
+
+The full analysis is available [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Credit_risk_analytics.ipynb).
+
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
 
 **Boston Housing**
-- Case study of neural networks &nbsp; [See in detail](https://colab.research.google.com/drive/1x7Hkh2GmmAkQikVmEKbwa7cxsRVk0RGT)
+
+The full analysis is available [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Boston_housing_price_analytics.ipynb).
+
+- Predicted Boston's housing price using Neural Networks model (Keras).
 
 **Loan Performance Stress Testing (_Nov 2023_)**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
