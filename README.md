@@ -29,6 +29,8 @@ This is the page where I share my past analytical experience including snippets 
 -  Aggregated and organized financial data for monthly variance analysis reports by meticulously reviewing
  bank statements from the past month, ensuring over 90% of data readiness
 
+<hr>
+
 ### Analytics Work Demo
 
 **ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; 
