@@ -31,13 +31,17 @@ This is the page where I share my past analytical experience including snippets 
 
 <hr>
 
-### Analytics Work Demo
+### Analytical Work Demo
 
 **ESG Rating Analysis Across Global Sectors** &nbsp; 
 
 The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb).
 
-<img src="images/Screenshot 2024-10-27 225141.png?raw=true"/>
+
+<figure align="center">
+  <img src="images/esg.png" width="800"/>
+  <figcaption><em>Figure 1: ESG rating changes over time in different industries.</em></figcaption>
+</figure>
 
 
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
@@ -51,7 +55,7 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 - Developed and delivered comprehensive reports highlighting key findings and trends in ESG data to
  academic stakeholders
 
-### ML Models Deployment
+### Machine Learning Modelling Deployment
 
 **Lending Club Credit Risk Analytics**
 
@@ -74,12 +78,12 @@ Full analysis available [here](https://github.com/lc587/projects-summary/blob/ma
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
  indicators such as unemployment rate, real GDP, and house price index <br><br>
-<img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
+<img src="images/pd_lgd.png"/>
 
 
 **Gherkin Tower Risk Analysis**
 - Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
-<img src="images/Screenshot 2024-10-27 224523.png?raw=true"/>
+<img src="images/libor_rates.png"/>
 
 
