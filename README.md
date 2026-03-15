@@ -33,7 +33,7 @@ This is the page where I share my past analytical experience including snippets 
 
 ### Analytics Work Demo
 
-**ESG Rating Analysis Across Global Sectors (_May-Aug 2024_)** &nbsp; 
+**ESG Rating Analysis Across Global Sectors** &nbsp; 
 
 The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_analytics.ipynb).
 
@@ -53,27 +53,31 @@ man’s measure, distance correlation, and Maximal Information Coefficient
 
 ### ML Models Deployment
 
-**Lending Club Credit Risk Analytics (_Apr 2024_)** &nbsp;
+**Lending Club Credit Risk Analytics**
 
-The full analysis is available [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Credit_risk_analytics.ipynb).
+Full analysis available [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Credit_risk_analytics.ipynb).
 
 -  Estimated loan default probability using a logistic regression model on a cleaned dataset of 1.3 million
  loans, achieving 87.7% accuracy through Weight of Evidence transformation and variable selection
 
-**Boston Housing**
+**Boston Housing Price Prediction**
 
-The full analysis is available [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Boston_housing_price_analytics.ipynb).
+ View the full Jupyter notebook [here](https://github.com/lc587/projects-summary/blob/main/notebooks/Boston_housing_price_analytics.ipynb).
 
 - Predicted Boston's housing price using Neural Networks model (Keras).
 
-**Loan Performance Stress Testing (_Nov 2023_)**
+<img src="images/housing_price_prediction.png"/>
+
+
+
+**Loan Performance Stress Testing**
 - Achieved 70% accuracy in forecasting probability of default (PD) and loss given default (LGD) rates
  by applying k-fold cross-validation on a logistic regression model, enhanced with key macroeconomic
  indicators such as unemployment rate, real GDP, and house price index <br><br>
 <img src="images/Screenshot 2024-10-27 210328.png?raw=true"/>
 
 
-**Gherkin Tower Risk Analysis (_Oct 2023_)**
+**Gherkin Tower Risk Analysis**
 - Quantified potential losses of £600 million over a 10-year period by calculating Expected Shortfall and
  Value-at-Risk using LIBOR and exchange rate data
 <img src="images/Screenshot 2024-10-27 224523.png?raw=true"/>
