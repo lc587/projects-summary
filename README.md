@@ -42,7 +42,6 @@ The full analysis can be viewed in Jupyter notebook [here](/notebooks/ESG_risk_a
   <figcaption><em>Figure 1: ESG rating changes over time in different industries.</em></figcaption>
 </figure>  
 
-
 - Cleaned and processed 2,511,168 rows of RepRisk ESG ratings data from 2010 to 2020, covering 17,002
  companies in 206 industries around the world
 - Visualized time-series analysis on 10 key sectors across Canada, China, the United States, and Germany
